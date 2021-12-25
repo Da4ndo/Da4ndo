@@ -9,8 +9,8 @@
 - 📫 How to reach me: 📧 | da4ndo@gmail.com 🌐 | https://sites.google.com/view/da4ndo or Discord: Da4ndo#0934
 
 # Some of my popular projects:
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=CEngine)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=USB.ENC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=CEngine)](https://github.com/Da4ndo/CEngine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=USB.ENC)](https://github.com/Da4ndo/USB.ENC)
 
 # Daily routine
 
