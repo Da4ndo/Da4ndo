@@ -14,7 +14,7 @@
 
 # Daily routine
 
-![Daily routine](https://github.com/Mesteri05/Mesteri05/blob/main/daily_routine.jpg?raw=true)
+![Daily routine](https://github.com/Mesteri05/Mesteri05/blob/main/daily_routine.jpg)
 
 # My stats
 
