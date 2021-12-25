@@ -3,7 +3,7 @@
 - 👋 Hi, I’m **Da4ndo**
 - 🎙️ **HU** / **EN**
 - 👀 I’m interested in programming in Python, C++, C, C#, Pascal, Java.
-- 🎉 | 15 yo.
+- 🎉 15 yo.
 - 🌱 I’m currently learning at high school.
 - 💞️ I’m looking for some programmer friends.
 - 📫 How to reach me: 📧 | da4ndo@gmail.com 🌐 | https://sites.google.com/view/da4ndo or Discord: Da4ndo#0934
