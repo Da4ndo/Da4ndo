@@ -1,6 +1,6 @@
 # [Da4ndo](https://sites.google.com/view/da4ndo)  [![Website](https://img.shields.io/website?label=da4ndo.github.io&style=for-the-badge&url=https%3A%2F%2Fda4ndo.github.io)](https://da4ndo.github.io)
 
-- <img src="https://github.com/Da4ndo/Da4ndo/blob/main/Hi.gif" width="29px"> Hi, I’m **Da4ndo**
+- <img src="https://github.com/Da4ndo/Da4ndo/blob/main/Hi.gif" width="2px"> Hi, I’m **Da4ndo**
 - 🎙️ **HU** / **EN**
 - 🎉 15 yo.
 - 🌱 I’m currently learning at high school.
