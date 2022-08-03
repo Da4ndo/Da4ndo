@@ -1,4 +1,4 @@
-# [Da4ndo](https://sites.google.com/view/da4ndo)  [![Website](https://img.shields.io/website?label=da4ndo.github.io&style=for-the-badge&url=https%3A%2F%2Fda4ndo.github.io)](https://da4ndo.github.io)
+# [Da4ndo](https://da4ndo.com)  [![Website](https://img.shields.io/website?label=da4ndo.com&style=for-the-badge&url=https%3A%2F%2Fda4ndo.com)](https://da4ndo.com)
 
 - <img src="https://github.com/Da4ndo/Da4ndo/blob/main/Hi.gif" width="2px"> Hi, I’m **Da4ndo**
 - 🎙️ **HU** / **EN**
