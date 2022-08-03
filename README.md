@@ -2,7 +2,7 @@
 
 - <img src="https://github.com/Da4ndo/Da4ndo/blob/main/Hi.gif" width="2px"> Hi, I’m **Da4ndo**
 - 🎙️ **HU** / **EN**
-- 🎉 15 yo.
+- 🎉 16 years old
 - 🌱 I’m currently learning at high school.
 - 💞️ I’m looking for some programmer friends.
 
