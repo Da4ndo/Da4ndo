@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 ![my_discord]
-[![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:da4ndo@gmail.com "da4ndo@gmail.com")
+[![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@da4ndo.com "contact@da4ndo.com")
 
 [my_discord]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
            "Da4ndo#0934"
