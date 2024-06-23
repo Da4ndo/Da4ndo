@@ -1,4 +1,4 @@
-# [Da4ndo](https://da4ndo.com)  [![Website](https://img.shields.io/website?label=da4ndo.com&style=flat&url=https://da4ndo.com)](https://da4ndo.com) [![Blog](https://img.shields.io/website?label=blog.da4ndo.com&style=flat&url=https://blog.da4ndo.com)](https://da4ndo.com)
+# [Da4ndo](https://da4ndo.com)  [![Website](https://img.shields.io/website?label=da4ndo.com&style=flat&url=https://da4ndo.com)](https://da4ndo.com) [![Blog](https://img.shields.io/website?label=blog.da4ndo.com&style=flat&url=https://blog.da4ndo.com)](https://blog.da4ndo.com)
 
 - <img src="https://github.com/Da4ndo/Da4ndo/blob/main/Hi.gif" width="17px"> Hi, I’m **Da4ndo**
 - 🎙️ **Languages:** HU / EN
