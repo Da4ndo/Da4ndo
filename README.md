@@ -6,7 +6,7 @@
 - 🌱 **Education:** Currently learning at high school.
 - 💼 **Work Status:** Working part-time, have completed numerous jobs and requests.
 - 💞️ **Looking for:** Programmer friends.
-- 💻 **Profession:** Full-Stack Developer
+- 💻 **Profession:** Backend & Full‑Stack Developer
 
 ### 📫 How to reach me:
 [![my_discord]](https://discord.com/users/451067907716153354)
