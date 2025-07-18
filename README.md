@@ -52,6 +52,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da4ndo&layout=compact&langs_count=100&hide=Mathematica,Kotlin,Shell,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame,Eltusa1,Eltusa2,Eltusa3,Eltusa,AR-RR,ELECTRIFIED)
 
+## ☕ Support Me
+
+If you like my work, you can buy me a coffee!
+
+<a href="https://coff.ee/Da4ndo">
+  <img alt="bmc_qr" src="https://github.com/user-attachments/assets/ed61e117-6fb7-421f-9ef8-30091e826891">
+</a>
+
 # 🔁 Daily routine
 
 ![Daily routine](https://github.com/Da4ndo/Da4ndo/blob/main/daily_routine.jpg)
