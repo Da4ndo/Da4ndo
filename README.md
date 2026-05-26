@@ -1,12 +1,10 @@
-# [Da4ndo](https://da4ndo.com)  [![Website](https://img.shields.io/website?label=da4ndo.com&style=flat&url=https://da4ndo.com)](https://da4ndo.com) [![Blog](https://img.shields.io/website?label=blog.da4ndo.com&style=flat&url=https://blog.da4ndo.com)](https://blog.da4ndo.com)
+# [Da4ndo](https://da4ndo.com)  [![Website](https://img.shields.io/website?label=da4ndo.com&style=flat&url=https://da4ndo.com)](https://da4ndo.com)
 
-- <img src="https://github.com/Da4ndo/Da4ndo/blob/main/Hi.gif" width="17px"> Hi, I’m **Da4ndo**
+- <img src="https://github.com/Da4ndo/Da4ndo/blob/main/Hi.gif" width="17px"> Hi, I'm **Da4ndo**
 - 🎙️ **Languages:** HU / EN
-- 🎉 **Age:** 18 years old
 - 🌱 **Education:** Currently learning at high school.
 - 💼 **Work Status:** Working part-time, have completed numerous jobs and requests.
-- 💞️ **Looking for:** Programmer friends.
-- 💻 **Profession:** Backend & Full‑Stack Developer
+- 💻 **Profession:** Software & AI Developer
 
 ### 📫 How to reach me:
 [![my_discord]](https://discord.com/users/451067907716153354)
@@ -39,18 +37,16 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-# 📋 Some of my popular projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=Hyde-Ext)](https://github.com/Da4ndo/Hyde-Ext)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=NestAuthFlow)](https://github.com/Da4ndo/NestAuthFlow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=project-cleaner)](https://github.com/Da4ndo/project-cleaner)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=Better-DiscordJS-V14-Bot-Template)](https://github.com/Da4ndo/Better-DiscordJS-V14-Bot-Template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Da4ndo&repo=CEngine)](https://github.com/Da4ndo/CEngine)
-
 # 📊 My stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Da4ndo&count_private=true&show_icons=true&theme=radical&layout=compact)
+[![Da4ndo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Da4ndo&theme=vue)](https://github.com/Da4ndo)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da4ndo&layout=compact&langs_count=100&hide=Mathematica,Kotlin,Shell,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame,Eltusa1,Eltusa2,Eltusa3,Eltusa,AR-RR,ELECTRIFIED)
+[![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Da4ndo&theme=vue)](https://github.com/Da4ndo)
+[![Top Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Da4ndo&theme=vue)](https://github.com/Da4ndo)
+
+# 🔁 Daily routine
+
+![Daily routine](https://github.com/Da4ndo/Da4ndo/blob/main/daily_routine.jpg)
 
 ## ☕ Support Me
 
@@ -67,6 +63,3 @@ If you like my work, you can buy me a coffee!
   />
 </a>
 
-# 🔁 Daily routine
-
-![Daily routine](https://github.com/Da4ndo/Da4ndo/blob/main/daily_routine.jpg)
